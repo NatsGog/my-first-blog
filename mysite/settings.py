@@ -25,7 +25,7 @@ SECRET_KEY = '6!g*cd&17+cnh69ybe$fxa6blv8!n8n-*#&=xv2!k1@%(v8jmw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["127.0.0.1","gogola.pythonanywhere.com"]
 
 
 # Application definition
